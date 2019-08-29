@@ -13,4 +13,4 @@ idioms = {
 
 for idiom, value in idioms.items():
     space = " "
-    print(f'{idiom}: {space.join(value)} ')
+    print(f'{idiom}: {space.join(value)}')
